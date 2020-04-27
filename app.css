@@ -1,0 +1,29 @@
+/*.box1 {*/
+	/*上から下へスライドさせるアニメーション、最初非表示になるようdisplayはnone*/
+	/*display: none;*/
+	/*background-color: #FF0000;*/
+	/*height: 200px;*/
+	/*width: 200px;*/
+/*}*/
+
+/*.box1 {*/
+		/*下から上へスライドさせるアニメーション、displayは見えておかないと分からないからこのまま*/
+    /*background-color: #FF0000;*/
+    /*height: 200px;*/
+    /*width: 200px;*/
+/*}*/
+
+/*.box1 {*/
+	/*非表示をjqueryで表示させる*/
+    /*display: none;*/
+    /*background-color: #FF0000;*/
+    /*height: 200px;*/
+    /*width: 200px;*/
+/*}*/
+
+.box1 {
+	/*表示をjqueryで非表示させる*/
+    background-color: #FF0000;
+    height: 200px;
+    width: 200px;
+}
